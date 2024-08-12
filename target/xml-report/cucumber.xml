@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="13.585">
+    <testcase classname="As a provider, I want to be able to create a new blog record via API connection." name="The API must verify that the new blog record to be created through the API has been created." time="11.287">
+        <system-out><![CDATA[* The api user sets "api/blog/25" path parameters...........................passed
+* The api user sends a GET request and saves the returned response..........passed
+* The api user verifies that the status code is 200.........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="As a provider, I want to be able to create a new blog record via API connection." name="The API must verify that the new blog record to be created through the API has been created. 2" time="1.541">
+        <system-out><![CDATA[* The api user sets "api/blog/26" path parameters...........................passed
+* The api user sends a GET request and saves the returned response..........passed
+* The api user verifies that the status code is 200.........................passed
+]]></system-out>
+    </testcase>
+</testsuite>
